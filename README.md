@@ -207,9 +207,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: (https://github.com/nxn404-n)
+- Twitter: [@nxn_404](https://twitter.com/nxn_404)
+- LinkedIn: (www.linkedin.com/in/nafeurrahmanadil)
 
 👤 **Author2**
 
@@ -225,9 +225,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **It has a HTML file**
+- [ ] **It has a CSS file**
+- [ ] **It has a .gitignore file**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
